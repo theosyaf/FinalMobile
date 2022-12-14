@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/orange</item>
+    </style>
+</resources>
